@@ -1,0 +1,14 @@
+{
+  "name": "compressed-html-server",
+  "version": "1.0.0",
+  "description": "Node.js server that serves a compressed index.html file",
+  "main": "server.js",
+  "dependencies": {
+    "zlib": "^1.0.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
